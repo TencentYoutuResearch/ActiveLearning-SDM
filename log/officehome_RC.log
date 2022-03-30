@@ -1,0 +1,244 @@
+nohup: ignoring input
+-----------------------------------------------------------
+Start Sample Strategy MeanTeacher2 with data Real_World --> Clipart
+-----------------------------------------------------------
+Train Epoch: 1 [0/4357 (0%)]	Margin Loss: 1.001342
+Train Epoch: 1 [3600/4357 (83%)]	Margin Loss: 0.447921
+
+Test set: Average loss: 2.5053, Accuracy: 1830/4365 (41.92%)
+
+-----------------------------------------------------------
+Train Epoch: 2 [0/4357 (0%)]	Margin Loss: 0.412745
+Train Epoch: 2 [3600/4357 (83%)]	Margin Loss: 0.361484
+
+Test set: Average loss: 2.3724, Accuracy: 1934/4365 (44.31%)
+
+-----------------------------------------------------------
+Train Epoch: 3 [0/4357 (0%)]	Margin Loss: 0.323738
+Train Epoch: 3 [3600/4357 (83%)]	Margin Loss: 0.338641
+
+Test set: Average loss: 2.3490, Accuracy: 1930/4365 (44.22%)
+
+-----------------------------------------------------------
+Train Epoch: 4 [0/4357 (0%)]	Margin Loss: 0.296436
+Train Epoch: 4 [3600/4357 (83%)]	Margin Loss: 0.299481
+
+Test set: Average loss: 2.3360, Accuracy: 1941/4365 (44.47%)
+
+-----------------------------------------------------------
+Train Epoch: 5 [0/4357 (0%)]	Margin Loss: 0.253805
+Train Epoch: 5 [3600/4357 (83%)]	Margin Loss: 0.267932
+
+Test set: Average loss: 2.3593, Accuracy: 1945/4365 (44.56%)
+
+-----------------------------------------------------------
+Train Epoch: 6 [0/4357 (0%)]	Margin Loss: 0.248907
+Train Epoch: 6 [3600/4357 (83%)]	Margin Loss: 0.260518
+
+Test set: Average loss: 2.3681, Accuracy: 1934/4365 (44.31%)
+
+-----------------------------------------------------------
+Train Epoch: 7 [0/4357 (0%)]	Margin Loss: 0.238925
+Train Epoch: 7 [3600/4357 (83%)]	Margin Loss: 0.234025
+
+Test set: Average loss: 2.3925, Accuracy: 1927/4365 (44.15%)
+
+-----------------------------------------------------------
+Train Epoch: 8 [0/4357 (0%)]	Margin Loss: 0.192388
+Train Epoch: 8 [3600/4357 (83%)]	Margin Loss: 0.214926
+
+Test set: Average loss: 2.4202, Accuracy: 1900/4365 (43.53%)
+
+-----------------------------------------------------------
+Train Epoch: 9 [0/4357 (0%)]	Margin Loss: 0.173703
+Train Epoch: 9 [3600/4357 (83%)]	Margin Loss: 0.176772
+
+Test set: Average loss: 2.3940, Accuracy: 1969/4365 (45.11%)
+
+-----------------------------------------------------------
+Train Epoch: 10 [0/4357 (0%)]	Margin Loss: 0.196182
+Train Epoch: 10 [3600/4357 (83%)]	Margin Loss: 0.214504
+
+Test set: Average loss: 2.3861, Accuracy: 1983/4365 (45.43%)
+
+-----------------------------------------------------------
+Train Epoch: 11 [0/4401 (0%)]	Margin Loss: 0.165802
+Train Epoch: 11 [3600/4401 (82%)]	Margin Loss: 0.172794
+
+Test set: Average loss: 2.3042, Accuracy: 2063/4365 (47.26%)
+
+-----------------------------------------------------------
+Train Epoch: 12 [0/4401 (0%)]	Margin Loss: 0.169495
+Train Epoch: 12 [3600/4401 (82%)]	Margin Loss: 0.177309
+
+Test set: Average loss: 2.2105, Accuracy: 2132/4365 (48.84%)
+
+-----------------------------------------------------------
+Train Epoch: 13 [0/4445 (0%)]	Margin Loss: 0.137797
+Train Epoch: 13 [3600/4445 (82%)]	Margin Loss: 0.144004
+
+Test set: Average loss: 2.0980, Accuracy: 2263/4365 (51.84%)
+
+-----------------------------------------------------------
+Train Epoch: 14 [0/4445 (0%)]	Margin Loss: 0.144657
+Train Epoch: 14 [3600/4445 (82%)]	Margin Loss: 0.156111
+
+Test set: Average loss: 2.1151, Accuracy: 2263/4365 (51.84%)
+
+-----------------------------------------------------------
+Train Epoch: 15 [0/4489 (0%)]	Margin Loss: 0.160273
+Train Epoch: 15 [3600/4489 (81%)]	Margin Loss: 0.146447
+
+Test set: Average loss: 1.9935, Accuracy: 2385/4365 (54.64%)
+
+-----------------------------------------------------------
+Train Epoch: 16 [0/4489 (0%)]	Margin Loss: 0.141965
+Train Epoch: 16 [3600/4489 (81%)]	Margin Loss: 0.139849
+
+Test set: Average loss: 1.9441, Accuracy: 2445/4365 (56.01%)
+
+-----------------------------------------------------------
+Train Epoch: 17 [0/4533 (0%)]	Margin Loss: 0.123489
+Train Epoch: 17 [3600/4533 (81%)]	Margin Loss: 0.157741
+
+Test set: Average loss: 1.8547, Accuracy: 2521/4365 (57.75%)
+
+-----------------------------------------------------------
+Train Epoch: 18 [0/4533 (0%)]	Margin Loss: 0.123628
+Train Epoch: 18 [3600/4533 (81%)]	Margin Loss: 0.134432
+
+Test set: Average loss: 1.8513, Accuracy: 2575/4365 (58.99%)
+
+-----------------------------------------------------------
+Train Epoch: 19 [0/4577 (0%)]	Margin Loss: 0.112622
+Train Epoch: 19 [3600/4577 (79%)]	Margin Loss: 0.120711
+
+Test set: Average loss: 1.7638, Accuracy: 2638/4365 (60.44%)
+
+-----------------------------------------------------------
+Train Epoch: 20 [0/4577 (0%)]	Margin Loss: 0.102087
+Train Epoch: 20 [3600/4577 (79%)]	Margin Loss: 0.112353
+
+Test set: Average loss: 1.7645, Accuracy: 2640/4365 (60.48%)
+
+-----------------------------------------------------------
+Train Epoch: 21 [0/4577 (0%)]	Margin Loss: 0.110482
+Train Epoch: 21 [3600/4577 (79%)]	Margin Loss: 0.139289
+
+Test set: Average loss: 1.7635, Accuracy: 2647/4365 (60.64%)
+
+-----------------------------------------------------------
+Train Epoch: 22 [0/4577 (0%)]	Margin Loss: 0.093491
+Train Epoch: 22 [3600/4577 (79%)]	Margin Loss: 0.103191
+
+Test set: Average loss: 1.7458, Accuracy: 2669/4365 (61.15%)
+
+-----------------------------------------------------------
+Train Epoch: 23 [0/4577 (0%)]	Margin Loss: 0.101385
+Train Epoch: 23 [3600/4577 (79%)]	Margin Loss: 0.136063
+
+Test set: Average loss: 1.7490, Accuracy: 2686/4365 (61.53%)
+
+-----------------------------------------------------------
+Train Epoch: 24 [0/4577 (0%)]	Margin Loss: 0.097397
+Train Epoch: 24 [3600/4577 (79%)]	Margin Loss: 0.099253
+
+Test set: Average loss: 1.7622, Accuracy: 2697/4365 (61.79%)
+
+-----------------------------------------------------------
+Train Epoch: 25 [0/4577 (0%)]	Margin Loss: 0.089156
+Train Epoch: 25 [3600/4577 (79%)]	Margin Loss: 0.107238
+
+Test set: Average loss: 1.7563, Accuracy: 2705/4365 (61.97%)
+
+-----------------------------------------------------------
+Train Epoch: 26 [0/4577 (0%)]	Margin Loss: 0.097630
+Train Epoch: 26 [3600/4577 (79%)]	Margin Loss: 0.089391
+
+Test set: Average loss: 1.7685, Accuracy: 2703/4365 (61.92%)
+
+-----------------------------------------------------------
+Train Epoch: 27 [0/4577 (0%)]	Margin Loss: 0.096604
+Train Epoch: 27 [3600/4577 (79%)]	Margin Loss: 0.096747
+
+Test set: Average loss: 1.7652, Accuracy: 2720/4365 (62.31%)
+
+-----------------------------------------------------------
+Train Epoch: 28 [0/4577 (0%)]	Margin Loss: 0.077011
+Train Epoch: 28 [3600/4577 (79%)]	Margin Loss: 0.091190
+
+Test set: Average loss: 1.7860, Accuracy: 2693/4365 (61.70%)
+
+-----------------------------------------------------------
+Train Epoch: 29 [0/4577 (0%)]	Margin Loss: 0.073271
+Train Epoch: 29 [3600/4577 (79%)]	Margin Loss: 0.092244
+
+Test set: Average loss: 1.7736, Accuracy: 2722/4365 (62.36%)
+
+-----------------------------------------------------------
+Train Epoch: 30 [0/4577 (0%)]	Margin Loss: 0.087489
+Train Epoch: 30 [3600/4577 (79%)]	Margin Loss: 0.074115
+
+Test set: Average loss: 1.7784, Accuracy: 2709/4365 (62.06%)
+
+-----------------------------------------------------------
+Train Epoch: 31 [0/4577 (0%)]	Margin Loss: 0.067044
+Train Epoch: 31 [3600/4577 (79%)]	Margin Loss: 0.069931
+
+Test set: Average loss: 1.7897, Accuracy: 2705/4365 (61.97%)
+
+-----------------------------------------------------------
+Train Epoch: 32 [0/4577 (0%)]	Margin Loss: 0.064048
+Train Epoch: 32 [3600/4577 (79%)]	Margin Loss: 0.067815
+
+Test set: Average loss: 1.8125, Accuracy: 2686/4365 (61.53%)
+
+-----------------------------------------------------------
+Train Epoch: 33 [0/4577 (0%)]	Margin Loss: 0.067697
+Train Epoch: 33 [3600/4577 (79%)]	Margin Loss: 0.072909
+
+Test set: Average loss: 1.7980, Accuracy: 2692/4365 (61.67%)
+
+-----------------------------------------------------------
+Train Epoch: 34 [0/4577 (0%)]	Margin Loss: 0.056299
+Train Epoch: 34 [3600/4577 (79%)]	Margin Loss: 0.068972
+
+Test set: Average loss: 1.7920, Accuracy: 2697/4365 (61.79%)
+
+-----------------------------------------------------------
+Train Epoch: 35 [0/4577 (0%)]	Margin Loss: 0.077032
+Train Epoch: 35 [3600/4577 (79%)]	Margin Loss: 0.074971
+
+Test set: Average loss: 1.8304, Accuracy: 2686/4365 (61.53%)
+
+-----------------------------------------------------------
+Train Epoch: 36 [0/4577 (0%)]	Margin Loss: 0.071422
+Train Epoch: 36 [3600/4577 (79%)]	Margin Loss: 0.068283
+
+Test set: Average loss: 1.7917, Accuracy: 2717/4365 (62.25%)
+
+-----------------------------------------------------------
+Train Epoch: 37 [0/4577 (0%)]	Margin Loss: 0.061917
+Train Epoch: 37 [3600/4577 (79%)]	Margin Loss: 0.062346
+
+Test set: Average loss: 1.8098, Accuracy: 2702/4365 (61.90%)
+
+-----------------------------------------------------------
+Train Epoch: 38 [0/4577 (0%)]	Margin Loss: 0.070074
+Train Epoch: 38 [3600/4577 (79%)]	Margin Loss: 0.048803
+
+Test set: Average loss: 1.8438, Accuracy: 2697/4365 (61.79%)
+
+-----------------------------------------------------------
+Train Epoch: 39 [0/4577 (0%)]	Margin Loss: 0.055169
+Train Epoch: 39 [3600/4577 (79%)]	Margin Loss: 0.066960
+
+Test set: Average loss: 1.7961, Accuracy: 2727/4365 (62.47%)
+
+-----------------------------------------------------------
+Train Epoch: 40 [0/4577 (0%)]	Margin Loss: 0.062526
+Train Epoch: 40 [3600/4577 (79%)]	Margin Loss: 0.069457
+
+Test set: Average loss: 1.8075, Accuracy: 2704/4365 (61.95%)
+
+-----------------------------------------------------------
